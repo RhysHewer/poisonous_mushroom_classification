@@ -2,7 +2,7 @@
 # Developer: Rhys Hewer
 # Project: Datathon Mushroom
 # Version: 1
-# Purpose: Classify muschrooms as poisonous or edible
+# Purpose: Classify mushrooms as poisonous or edible
 #------------------------------------------------------------------------------#
 
 #Load libraries
